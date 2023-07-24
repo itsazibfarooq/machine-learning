@@ -1,0 +1,6 @@
+### Training a neural network
+micrograd: autograd-engine (implement backprop)
+back-propogation: calculate gradient of loss function w.r.t weights
+so we can optimize weights to get reduce the loss function.
+
+
